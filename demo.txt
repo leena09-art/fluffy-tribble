@@ -6,4 +6,4 @@ pulling the code to local
 Checking if it works.
 Writing code from repo to local to analyze
 POC for stashing...rechecking with stash concept changing in local
-Practicing stashing directly from local to repo
+Practicing stashing directly from local to repo, also from repo to local
