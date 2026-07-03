@@ -2,3 +2,4 @@ Hi, I'm beginner.
 I'm Leena
 Started doing practice
 User friendly practice
+pulling the code to local
