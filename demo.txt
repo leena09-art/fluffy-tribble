@@ -9,3 +9,4 @@ POC for stashing...rechecking with stash concept changing in local
 Practicing stashing directly from local to repo 
 adding text in th next line to check for conflicts
 Practicing git commands.
+from repo to local
