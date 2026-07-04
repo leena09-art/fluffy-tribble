@@ -10,4 +10,5 @@ Practicing stashing directly from local to repo
 adding text in th next line to check for conflicts
 Practicing git commands.
 from repo to local
-checking the 13th line
+POC for stash
+Adding the next linechecking the 13th line
