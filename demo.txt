@@ -3,7 +3,7 @@ I'm Leena
 Started doing practice
 User friendly practice
 pulling the code to local
-Checking if it works.
+Checking if it works.It is working as expected.
 Writing code from repo to local to analyze
 POC for stashing...rechecking with stash concept changing in local
 Practicing stashing directly from local to repo 
